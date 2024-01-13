@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//aviraj00.github.io/deshduniya-news-site/static/css/main.f6185dd6.css",
+    "main.js": "//aviraj00.github.io/deshduniya-news-site/static/js/main.1b63eebd.js",
+    "static/js/787.d16f93b8.chunk.js": "//aviraj00.github.io/deshduniya-news-site/static/js/787.d16f93b8.chunk.js",
+    "static/media/skate.gif": "//aviraj00.github.io/deshduniya-news-site/static/media/skate.b53f1c752983543a68ff.gif",
+    "index.html": "//aviraj00.github.io/deshduniya-news-site/index.html",
+    "main.f6185dd6.css.map": "//aviraj00.github.io/deshduniya-news-site/static/css/main.f6185dd6.css.map",
+    "main.1b63eebd.js.map": "//aviraj00.github.io/deshduniya-news-site/static/js/main.1b63eebd.js.map",
+    "787.d16f93b8.chunk.js.map": "//aviraj00.github.io/deshduniya-news-site/static/js/787.d16f93b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6185dd6.css",
+    "static/js/main.1b63eebd.js"
+  ]
+}
