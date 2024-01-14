@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.body{
+  background-image: url("https://st.depositphotos.com/1032463/1373/i/450/depositphotos_13732950-stock-photo-background-of-old-vintage-newspapers.jpg");
+}
 
 .App-logo {
   height: 40vmin;
